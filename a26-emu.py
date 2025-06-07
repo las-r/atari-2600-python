@@ -1,6 +1,11 @@
 import pygame
 import time
 
+# made by las-r on github
+# v0.1
+
+# not even close to being finished
+
 # init pygame
 pygame.init()
 clock = pygame.time.Clock()
